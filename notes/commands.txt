@@ -1,0 +1,6 @@
+python3 --version
+git --version
+git config --global user.name "aphidetki-pp"
+git config --global user.email "aphidet.ki.69@ubu.ac.th"
+git clone https://github.com/aphidetki-pp/lap01-69114540693.git
+touch main.py
